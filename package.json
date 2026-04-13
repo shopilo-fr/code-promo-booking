@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-booking",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo Booking.com depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-bookingcom",
+    "bon-de-reduction-bookingcom",
+    "coupon-bookingcom",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/booking.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-booking.git"
+  }
+}
